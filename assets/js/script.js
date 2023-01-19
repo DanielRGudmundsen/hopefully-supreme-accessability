@@ -19,4 +19,4 @@ var n = text.substring(7);
 function colorLetters() {
     element.innerHTML = hori + "<span style='color:#d9dcd6;'>" + seo + "</span>" + n;
 
-//To do connect to html document run after DOM loads
+//To do connect to html run after DOM loads
